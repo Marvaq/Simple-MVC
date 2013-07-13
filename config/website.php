@@ -32,6 +32,6 @@ define('SITE_THEME', 'default');
 
 /*
  *  @name Website Security Key
- *  @desc Only change when there aren't any users registered
+ *  @desc Only change when there aren't any users registered.
  */
 define('SITE_SALT', 'arJSAmVLCKzdZ9s');
